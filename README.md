@@ -26,7 +26,7 @@ Before diving into the projects, make sure you have the following prerequisites:
 
 Here are some beginner-friendly front-end development projects to help you practice and improve your skills:
 
-### 1. Simple To-Do List
+### 1. House
 
 ![House](Img/house.png)
 
@@ -34,7 +34,7 @@ Here are some beginner-friendly front-end development projects to help you pract
 - Skills: HTML, CSS
 - Repository Link: [House](https://github.com/3bduu/Front_for_Beginner/tree/main/House)
 
-### 2. Responsive Personal Portfolio
+### 2. Login
 
 ![Login](Img/Login.png)
 
