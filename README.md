@@ -6,7 +6,6 @@ Welcome to our curated collection of beginner-friendly front-end development rep
 - [Getting Started](#getting-started)
 - [Projects](#projects)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Getting Started
 
@@ -54,7 +53,3 @@ We welcome contributions from the community! If you have a project idea, found a
 4. Create a pull request (PR) with details about your contribution.
 
 We'll review your PR and provide feedback as needed. Together, we can make this repository a valuable resource for beginner front-end developers.
-
-## License
-
-This repository and the projects within it are open-source and available under the [MIT License](LICENSE). Feel free to use, modify, and distribute them for educational and personal purposes.
